@@ -29,9 +29,12 @@ module.exports = {
     photo: '/photo.jpg',
     bio: 'Serial Entrepreneur, Innovator, Experience Designer',
     contacts: {
-      email: 'alex@akhomyakov.com',
+      email: 'a@akhomyakov.com',
       telegram: 'a_khomyakov',
-      twitter: 'a_khomyakov'
+      twitter: 'a_khomyakov',
+      github: '#',
+      rss: '#',
+      vkontakte: '#'
     }
   }
 };
