@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://akhomyakov.com',
   pathPrefix: '/',
   title: 'Alex Khomyakov',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  subtitle: 'Serial Entrepreneur, Innovator, Experience Designer',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -27,14 +27,11 @@ module.exports = {
   author: {
     name: 'Alex Khomyakov',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Serial Entrepreneur, Innovator, Experience Designer',
     contacts: {
-      email: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '#',
-      vkontakte: '#'
+      email: 'alex@akhomyakov.com',
+      telegram: 'a_khomyakov',
+      twitter: 'a_khomyakov'
     }
   }
 };
