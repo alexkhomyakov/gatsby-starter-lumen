@@ -15,9 +15,6 @@ const useSiteMetadata = () => {
                 email
                 telegram
                 twitter
-                github
-                rss
-                vkontakte
               }
             }
             menu {

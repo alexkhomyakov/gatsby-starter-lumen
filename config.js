@@ -31,10 +31,7 @@ module.exports = {
     contacts: {
       email: 'a@akhomyakov.com',
       telegram: 'a_khomyakov',
-      twitter: 'a_khomyakov',
-      github: '#',
-      rss: '#',
-      vkontakte: '#'
+      twitter: 'a_khomyakov'
     }
   }
 };
